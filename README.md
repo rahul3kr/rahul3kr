@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/smile" width="35"> I'm Rahul Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hi.gif" width="35"> I'm Rahul Kumar</h1>
 <h4 align="center">I'm a passionate software developer skilled in Programming and the MERN Stack. I love experimenting and am always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 ---
