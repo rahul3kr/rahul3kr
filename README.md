@@ -1,13 +1,4 @@
-<h1 align="center">Hi <img src="import { Picker, EmojiType } from 'ms-3d-emoji-picker';
-
-export const EmojiPicker = () => {
-  return (
-    <Picker
-      isOpen={true}
-      handleEmojiSelect={(selectedEmoji: EmojiType) => console.log(selectedEmoji)}
-    />
-  );
-};" width="35"> I'm Rahul Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rahul Kumar</h1>
 <h4 align="center">I'm a passionate software developer skilled in Programming and the MERN Stack. I love experimenting and am always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 ---
