@@ -2,7 +2,7 @@
 <h4 align="center">I'm a passionate software developer skilled in Programming and the MERN Stack. I love experimenting and am always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 ---
-
+## 🚀 About Me
 🌍 I'm based in **Gaya, India**  
 ⚛️ I love working with **MERN stack** and solving problems through **programming**  
 🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
@@ -39,5 +39,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul3kr&theme=transparent&hide_border=true&title_color=black&text_color=black&sideNums=black&sideLabels=black&ring=black&fire=black&currStreakLabel=white&currStreakNum=black)
 
 ---
+
+## 📂 Featured Projects
+- [🔗 Project 1](https://github.com/rahul3kr/project1) – Clean India..and sachh bharat...
+- [🔗 Project 2](https://github.com/rahul3kr/project2) – Short description.
+
+⭐️ From [rahul3kr](https://github.com/rahul3kr)
+
 
 ✨ _Thanks for visiting my profile! Feel free to connect and collaborate!_
