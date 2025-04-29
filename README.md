@@ -41,7 +41,7 @@
 ---
 
 ## 📂 Featured Projects
-- [🔗 Project 1](https://github.com/rahul3kr/project1) – Clean India..and sachh bharat...
+- [🔗 Project 1](https://github.com/rahul3kr/project1) – Clean India..and swachh bharat...
 - [🔗 Project 2](https://github.com/rahul3kr/project2) – Short description.
 
 ⭐️ From [rahul3kr](https://github.com/rahul3kr)
